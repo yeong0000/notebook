@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:[Database]://localhost:8090/[CHATROOM]
+    username: scott
+    password: tiger
+    driver-class-name: [JDBC 드라이버]
